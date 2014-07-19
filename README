@@ -1,0 +1,24 @@
+#
+# Nagios module to check interfaces status for Solaris v0.1
+# Made by Pierre Mavro
+# Last Modified : 09/04/2009
+#
+# This Nagios module is under GPLv2 License
+#
+########################################################################
+#
+# Installation (nagios client side) :
+# - Copy the script in your nagios plugins directory (usualy /opt/csw/libexec/nagios-plugins)
+# - Set good rights (755 for root:bin)
+#
+# Usage : check_ifstatus
+#
+########################################################################
+#
+# History :
+#
+# v0.1 :
+# + First version
+#
+########################################################################
+
